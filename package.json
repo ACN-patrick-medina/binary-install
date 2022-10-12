@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "binary-install",
+  "version": "1.0.6",
   "private": true,
   "scripts": {
     "postinstall": "lerna bootstrap --hoist",
